@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jdmpt.Api", "Jdmpt.Api\Jdmpt.Api.csproj", "{A9786668-E371-4950-95FC-DBB37046DA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jdmpt.Data", "Jdmpt.Data\Jdmpt.Data.csproj", "{39F75E8D-4AE0-4656-AA14-24973FEBA3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jdmpt.App", "Jdmpt.App\Jdmpt.App.csproj", "{B55D8C39-521C-476C-A82A-A525484536B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9786668-E371-4950-95FC-DBB37046DA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9786668-E371-4950-95FC-DBB37046DA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9786668-E371-4950-95FC-DBB37046DA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9786668-E371-4950-95FC-DBB37046DA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F75E8D-4AE0-4656-AA14-24973FEBA3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F75E8D-4AE0-4656-AA14-24973FEBA3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F75E8D-4AE0-4656-AA14-24973FEBA3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F75E8D-4AE0-4656-AA14-24973FEBA3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D8C39-521C-476C-A82A-A525484536B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D8C39-521C-476C-A82A-A525484536B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D8C39-521C-476C-A82A-A525484536B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D8C39-521C-476C-A82A-A525484536B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
